@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View.UI", "View.UI.csproj", "{3B102928-D939-4822-ACA1-1D3CC80B734E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModel", "..\ViewModel\ViewModel.csproj", "{117BE656-6AC3-4264-9CF4-BC7FADA5CD0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "..\Models\Model.csproj", "{473CA79C-3271-48E6-8C3D-4D4C56725479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B102928-D939-4822-ACA1-1D3CC80B734E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B102928-D939-4822-ACA1-1D3CC80B734E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B102928-D939-4822-ACA1-1D3CC80B734E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B102928-D939-4822-ACA1-1D3CC80B734E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117BE656-6AC3-4264-9CF4-BC7FADA5CD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117BE656-6AC3-4264-9CF4-BC7FADA5CD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117BE656-6AC3-4264-9CF4-BC7FADA5CD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117BE656-6AC3-4264-9CF4-BC7FADA5CD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473CA79C-3271-48E6-8C3D-4D4C56725479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473CA79C-3271-48E6-8C3D-4D4C56725479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473CA79C-3271-48E6-8C3D-4D4C56725479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473CA79C-3271-48E6-8C3D-4D4C56725479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E62226E7-9B4C-41FC-BED2-9165CCFF7A0F}
+	EndGlobalSection
+EndGlobal
